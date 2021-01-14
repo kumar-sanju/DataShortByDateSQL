@@ -1,4 +1,4 @@
-package com.sanju.descendingordersql;
+package com.ride.descendingordersql;
 
 import org.junit.Test;
 
